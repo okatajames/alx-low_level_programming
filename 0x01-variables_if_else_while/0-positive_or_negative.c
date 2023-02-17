@@ -3,9 +3,11 @@
 #include <stdlib.h>
 
 /**
-* Main prints a random number and states whether it positive, negative or zero
-* Return always 0
-*/
+ * main - Prints the last digit of a randomly generated number
+ *        and whether it is greater than 5, less than 6, or 0.
+ *
+ * Return: Always 0.
+ */
 
 int main(void)
 {
