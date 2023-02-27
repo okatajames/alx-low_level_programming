@@ -2,6 +2,6 @@
 
 git add .
 
-git commit -m "Initial commit"
+git commit -m "0x05. C - Pointers, arrays and strings"
 
 git push
