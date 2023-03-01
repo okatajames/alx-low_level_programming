@@ -2,6 +2,6 @@
 
 git add .
 
-git commit -m "0x05. C - Pointers, arrays and strings"
+git commit -m "0x06-pointers_arrays_strings"
 
 git push
