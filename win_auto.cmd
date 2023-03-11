@@ -2,6 +2,6 @@
 
 git add .
 
-git commit -m "0x07-pointers_arrays_strings"
+git commit -m "0x09-static_libraries"
 
 git push
