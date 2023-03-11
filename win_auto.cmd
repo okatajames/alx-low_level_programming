@@ -2,6 +2,6 @@
 
 git add .
 
-git commit -m "0x09-static_libraries"
+git commit -m "0x0A-argc_argv"
 
 git push
