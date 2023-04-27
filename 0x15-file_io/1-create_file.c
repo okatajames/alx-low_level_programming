@@ -1,8 +1,10 @@
 #include "main.h"
 /**
- * create_file -creates an array of chars, and initializes
+ * create_file - our function that creates an arr of chars
  * @filename: is the name of the file to create
- * Return: 1 on success, -1 on failure
+ * @text_content: takes the text content
+ *
+ * Return: 1 for success, -1 for fail
  */
 
 int create_file(const char *filename, char *text_content)
