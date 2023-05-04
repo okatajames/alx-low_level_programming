@@ -24,7 +24,7 @@ unsigned long int _power(unsigned int base, unsigned int pow)
  * print_binary - bin rep of a num
  * @n: integ of printed num
  *
- * Return: Returns void
+ * Return: returns void
  */
 
 void print_binary(unsigned long int n)
